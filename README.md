@@ -1,3 +1,10 @@
-# Aula de PHP sobre o uso de:
+# Aula introdutória de PHP sobre o uso de:
 1 If e Else
+
 2 If Ternario
+
+3 While
+
+4 For
+
+5 Continue / Break
