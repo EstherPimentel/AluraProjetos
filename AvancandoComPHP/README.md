@@ -1,9 +1,9 @@
 ## Aula avançando com PHP sobre o uso de:
-1 Foreach
+1 Array
 
-2 Array
+2 Array Associativo
 
-3 Array Associativo
+3 Foreach
 
 4 
 
