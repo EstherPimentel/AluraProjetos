@@ -1,4 +1,4 @@
-## Aula introdutória de PHP sobre o uso de:
+## Aula avançando com PHP sobre o uso de:
 1 Foreach
 
 2 Array
