@@ -5,6 +5,16 @@
 
 3 Foreach
 
-4 
+4 String
 
-5 
+5 Funções
+
+6 Função List
+
+7 Função Unset
+
+8 Referência
+
+9 Arquivos Separados
+
+
