@@ -1,0 +1,21 @@
+{
+    "name": "esther/buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Esther\\BuscadorCursosAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EstherPimentel",
+            "email": "stherpimentel@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0"
+    }
+}
