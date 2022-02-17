@@ -34,9 +34,9 @@ class ComposerStaticInit1cb9ed85490540978f494037e8667186
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
         ),
-        'E' => 
+        'A' => 
         array (
-            'Esther\\BuscadorCursosAlura\\' => 27,
+            'Alura\\BuscadorDeCursos\\' => 23,
         ),
     );
 
@@ -78,7 +78,7 @@ class ComposerStaticInit1cb9ed85490540978f494037e8667186
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
         ),
-        'Esther\\BuscadorCursosAlura\\' => 
+        'Alura\\BuscadorDeCursos\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

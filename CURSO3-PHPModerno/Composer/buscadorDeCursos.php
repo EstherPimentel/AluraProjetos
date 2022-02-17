@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php';
+// require 'src/Buscador.php';
 
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
@@ -20,9 +20,10 @@ $crawler->addHtmlContent($html);
 $cursos = $crawler->filter('span.card-curso__nome');
 */
 
-$buscador = new \Alura\BuscadorDeCursos\Buscador($client, $crawler);
+$buscador = new Buscador($client, $crawler); /*\Alura\BuscadorDeCursos\Buscador */
 $cursos = $buscador->buscar('cursos-online-programacao/php');
 
 foreach($cursos as $curso) {
     echo $curso . PHP_EOL;
 }
+
