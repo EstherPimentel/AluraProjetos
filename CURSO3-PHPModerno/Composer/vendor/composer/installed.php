@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f43f1ec2ee9456b6279b447c7bcbb72db5a51e3d',
+        'reference' => '1f1d28cd30df10157c4ab3fd39087f28237bf62b',
         'name' => 'esther/buscador-cursos-alura',
         'dev' => true,
     ),
@@ -52,7 +52,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f43f1ec2ee9456b6279b447c7bcbb72db5a51e3d',
+            'reference' => '1f1d28cd30df10157c4ab3fd39087f28237bf62b',
             'dev_requirement' => false,
         ),
         'felixfbecker/advanced-json-rpc' => array(
